@@ -1,0 +1,136 @@
+{
+    "annotations": {
+      "list": []
+    },
+    "columns": null,
+    "description": "Dashboard pour surveiller les métriques de l'application",
+    "editable": true,
+    "gnetId": null,
+    "graphTooltip": 0,
+    "id": null,
+    "links": [],
+    "panels": [
+      {
+        "datasource": "Prometheus",
+        "fieldConfig": {
+          "defaults": {
+            "unit": "percent"
+          },
+          "overrides": []
+        },
+        "gridPos": {
+          "h": 6,
+          "w": 12,
+          "x": 0,
+          "y": 0
+        },
+        "id": 1,
+        "options": {
+          "legend": {
+            "calcs": [],
+            "displayMode": "list",
+            "placement": "bottom"
+          },
+          "orientation": "horizontal",
+          "reduceOptions": {
+            "calcs": ["lastNotNull"],
+            "fields": ""
+          },
+          "showThresholdLabels": false,
+          "showThresholdMarks": true
+        },
+        "targets": [
+          {
+            "expr": "app_memory_usage",
+            "interval": "",
+            "legendFormat": "Utilisation de la mémoire",
+            "refId": "A"
+          }
+        ],
+        "title": "Utilisation de la mémoire (Mo)",
+        "type": "graph"
+      },
+      {
+        "datasource": "Prometheus",
+        "fieldConfig": {
+          "defaults": {
+            "unit": "short"
+          },
+          "overrides": []
+        },
+        "gridPos": {
+          "h": 6,
+          "w": 12,
+          "x": 12,
+          "y": 0
+        },
+        "id": 2,
+        "options": {
+          "legend": {
+            "calcs": [],
+            "displayMode": "list",
+            "placement": "bottom"
+          },
+          "orientation": "horizontal",
+          "reduceOptions": {
+            "calcs": ["lastNotNull"],
+            "fields": ""
+          },
+          "showThresholdLabels": false,
+          "showThresholdMarks": true
+        },
+        "targets": [
+          {
+            "expr": "app_request_count",
+            "interval": "",
+            "legendFormat": "Nombre de requêtes",
+            "refId": "A"
+          }
+        ],
+        "title": "Nombre de requêtes traitées",
+        "type": "graph"
+      }
+    ],
+    "refresh": "5s",
+    "schemaVersion": 27,
+    "style": "dark",
+    "tags": [],
+    "templating": {
+      "list": []
+    },
+    "time": {
+      "from": "now-1h",
+      "to": "now"
+    },
+    "timepicker": {
+      "refresh_intervals": [
+        "5s",
+        "10s",
+        "30s",
+        "1m",
+        "5m",
+        "15m",
+        "30m",
+        "1h",
+        "3h",
+        "6h",
+        "12h",
+        "24h"
+      ],
+      "time_options": [
+        "5m",
+        "15m",
+        "1h",
+        "6h",
+        "12h",
+        "24h",
+        "7d",
+        "30d"
+      ]
+    },
+    "timezone": "browser",
+    "title": "Métriques de l'Application",
+    "uid": "application-metrics-dashboard",
+    "version": 1
+  }
+  

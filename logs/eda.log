@@ -1,0 +1,172 @@
+2025-05-12 23:21:37,799 | INFO | Lancement de l'application EDA.
+2025-05-12 23:21:37,865 | INFO | Données chargées depuis c:\Users\LENOVO\Desktop\Master d'excellence D3SI\Python avancé\Projet\mlops-text-classifier\src\../data/processed/data.csv
+2025-05-12 23:21:37,912 | INFO | Aperçu des premières lignes du dataset affiché.
+2025-05-12 23:21:37,967 | INFO | Résumé statistique du dataset affiché.
+2025-05-12 23:21:40,020 | INFO | Affichage du graphique de répartition des classes.
+2025-05-12 23:26:46,274 | INFO | Lancement de l'application EDA.
+2025-05-12 23:26:46,419 | INFO | Données chargées depuis c:\Users\LENOVO\Desktop\Master d'excellence D3SI\Python avancé\Projet\mlops-text-classifier\src\../data/processed/data.csv
+2025-05-12 23:26:46,494 | INFO | Aperçu des premières lignes du dataset affiché.
+2025-05-12 23:26:46,605 | INFO | Résumé statistique du dataset affiché.
+2025-05-12 23:26:48,825 | INFO | Affichage du graphique de répartition des classes.
+2025-05-12 23:27:37,558 | INFO | Lancement de l'application EDA.
+2025-05-12 23:27:37,597 | INFO | Données chargées depuis c:\Users\LENOVO\Desktop\Master d'excellence D3SI\Python avancé\Projet\mlops-text-classifier\src\../data/processed/data.csv
+2025-05-12 23:27:37,626 | INFO | Aperçu des premières lignes du dataset affiché.
+2025-05-12 23:27:37,681 | INFO | Résumé statistique du dataset affiché.
+2025-05-12 23:27:39,525 | INFO | Affichage du graphique de répartition des classes.
+2025-05-12 23:27:39,904 | INFO | Affichage de l'histogramme des longueurs de messages.
+2025-05-12 23:27:42,977 | INFO | Affichage du nuage de mots.
+2025-05-12 23:27:42,978 | INFO | EDA terminée avec succès.
+2025-05-12 23:30:32,079 | INFO | Lancement de l'application EDA.
+2025-05-12 23:30:32,123 | INFO | Données chargées depuis C:\Users\LENOVO\Desktop\Master d'excellence D3SI\Python avancé\Projet\mlops-text-classifier\src\../data/processed/data.csv
+2025-05-12 23:30:32,190 | INFO | Aperçu des premières lignes du dataset affiché.
+2025-05-12 23:30:32,337 | INFO | Résumé statistique du dataset affiché.
+2025-05-12 23:30:34,558 | INFO | Affichage du graphique de répartition des classes.
+2025-05-12 23:30:34,973 | INFO | Affichage de l'histogramme des longueurs de messages.
+2025-05-12 23:30:37,676 | INFO | Affichage du nuage de mots.
+2025-05-12 23:30:37,678 | INFO | EDA terminée avec succès.
+2025-05-12 23:34:07,081 | INFO | Lancement de l'application EDA.
+2025-05-12 23:34:07,121 | INFO | Données chargées depuis C:\Users\LENOVO\Desktop\Master d'excellence D3SI\Python avancé\Projet\mlops-text-classifier\src\../data/processed/data.csv
+2025-05-12 23:34:07,135 | INFO | Aperçu des premières lignes du dataset affiché.
+2025-05-12 23:34:07,177 | INFO | Résumé statistique du dataset affiché.
+2025-05-12 23:34:08,360 | INFO | Affichage du graphique de répartition des classes.
+2025-05-12 23:34:08,679 | INFO | Affichage de l'histogramme des longueurs de messages.
+2025-05-12 23:34:11,408 | INFO | Affichage du nuage de mots.
+2025-05-12 23:34:11,408 | INFO | EDA terminée avec succès.
+2025-05-12 23:34:12,338 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://100.112.121.62:5000
+2025-05-12 23:34:12,343 | INFO | [33mPress CTRL+C to quit[0m
+2025-05-12 23:34:12,469 | INFO |  * Restarting with watchdog (windowsapi)
+2025-05-12 23:34:23,348 | INFO | Lancement de l'application EDA.
+2025-05-12 23:34:23,399 | INFO | Données chargées depuis C:\Users\LENOVO\Desktop\Master d'excellence D3SI\Python avancé\Projet\mlops-text-classifier\src\../data/processed/data.csv
+2025-05-12 23:34:23,416 | INFO | Aperçu des premières lignes du dataset affiché.
+2025-05-12 23:34:23,449 | INFO | Résumé statistique du dataset affiché.
+2025-05-12 23:34:24,763 | INFO | Affichage du graphique de répartition des classes.
+2025-05-12 23:34:25,094 | INFO | Affichage de l'histogramme des longueurs de messages.
+2025-05-12 23:34:27,639 | INFO | Affichage du nuage de mots.
+2025-05-12 23:34:27,639 | INFO | EDA terminée avec succès.
+2025-05-12 23:34:27,666 | WARNING |  * Debugger is active!
+2025-05-12 23:34:27,678 | INFO |  * Debugger PIN: 131-779-272
+2025-05-12 23:34:58,060 | INFO | 127.0.0.1 - - [12/May/2025 23:34:58] "GET / HTTP/1.1" 200 -
+2025-05-12 23:34:58,124 | INFO | 127.0.0.1 - - [12/May/2025 23:34:58] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-05-12 23:35:01,249 | INFO | 127.0.0.1 - - [12/May/2025 23:35:01] "GET / HTTP/1.1" 200 -
+2025-05-12 23:35:02,212 | INFO | 127.0.0.1 - - [12/May/2025 23:35:02] "GET / HTTP/1.1" 200 -
+2025-05-12 23:35:17,293 | INFO | 127.0.0.1 - - [12/May/2025 23:35:17] "POST /predict-form HTTP/1.1" 200 -
+2025-05-12 23:35:17,341 | INFO | 127.0.0.1 - - [12/May/2025 23:35:17] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-05-12 23:35:18,354 | INFO | 127.0.0.1 - - [12/May/2025 23:35:18] "[31m[1mGET /predict-form HTTP/1.1[0m" 405 -
+2025-05-12 23:35:19,395 | INFO | 127.0.0.1 - - [12/May/2025 23:35:19] "[31m[1mGET /predict-form HTTP/1.1[0m" 405 -
+2025-05-12 23:35:38,021 | INFO | 127.0.0.1 - - [12/May/2025 23:35:38] "POST /predict-form HTTP/1.1" 200 -
+2025-05-12 23:35:38,070 | INFO | 127.0.0.1 - - [12/May/2025 23:35:38] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-05-12 23:35:39,183 | INFO | 127.0.0.1 - - [12/May/2025 23:35:39] "[31m[1mGET /predict-form HTTP/1.1[0m" 405 -
+2025-05-12 23:35:40,208 | INFO | 127.0.0.1 - - [12/May/2025 23:35:40] "[31m[1mGET /predict-form HTTP/1.1[0m" 405 -
+2025-05-12 23:35:54,790 | INFO | 127.0.0.1 - - [12/May/2025 23:35:54] "POST /predict-form HTTP/1.1" 200 -
+2025-05-12 23:35:54,882 | INFO | 127.0.0.1 - - [12/May/2025 23:35:54] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-05-12 23:35:56,012 | INFO | 127.0.0.1 - - [12/May/2025 23:35:56] "[31m[1mGET /predict-form HTTP/1.1[0m" 405 -
+2025-05-12 23:35:57,038 | INFO | 127.0.0.1 - - [12/May/2025 23:35:57] "[31m[1mGET /predict-form HTTP/1.1[0m" 405 -
+2025-05-12 23:35:58,467 | INFO | 127.0.0.1 - - [12/May/2025 23:35:58] "POST /predict-form HTTP/1.1" 200 -
+2025-05-12 23:35:58,564 | INFO | 127.0.0.1 - - [12/May/2025 23:35:58] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-05-12 23:35:59,482 | INFO | 127.0.0.1 - - [12/May/2025 23:35:59] "[31m[1mGET /predict-form HTTP/1.1[0m" 405 -
+2025-05-12 23:36:00,524 | INFO | 127.0.0.1 - - [12/May/2025 23:36:00] "[31m[1mGET /predict-form HTTP/1.1[0m" 405 -
+2025-05-12 23:36:10,287 | INFO | 127.0.0.1 - - [12/May/2025 23:36:10] "POST /predict-form HTTP/1.1" 200 -
+2025-05-12 23:36:10,348 | INFO | 127.0.0.1 - - [12/May/2025 23:36:10] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-05-12 23:36:11,387 | INFO | 127.0.0.1 - - [12/May/2025 23:36:11] "[31m[1mGET /predict-form HTTP/1.1[0m" 405 -
+2025-05-12 23:36:12,361 | INFO | 127.0.0.1 - - [12/May/2025 23:36:12] "[31m[1mGET /predict-form HTTP/1.1[0m" 405 -
+2025-05-12 23:36:14,089 | INFO | 127.0.0.1 - - [12/May/2025 23:36:14] "POST /predict-form HTTP/1.1" 200 -
+2025-05-12 23:36:14,181 | INFO | 127.0.0.1 - - [12/May/2025 23:36:14] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-05-12 23:36:15,087 | INFO | 127.0.0.1 - - [12/May/2025 23:36:15] "[31m[1mGET /predict-form HTTP/1.1[0m" 405 -
+2025-05-12 23:36:16,089 | INFO | 127.0.0.1 - - [12/May/2025 23:36:16] "[31m[1mGET /predict-form HTTP/1.1[0m" 405 -
+2025-05-12 23:37:01,528 | INFO |  * Detected change in "c:\\Users\\LENOVO\\Desktop\\Master d'excellence D3SI\\Python avancé\\Projet\\mlops-text-classifier\\api\\tempCodeRunnerFile.py", reloading
+2025-05-12 23:37:04,713 | INFO |  * Restarting with watchdog (windowsapi)
+2025-05-12 23:37:20,564 | INFO | Lancement de l'application EDA.
+2025-05-12 23:37:20,712 | INFO | Données chargées depuis C:\Users\LENOVO\Desktop\Master d'excellence D3SI\Python avancé\Projet\mlops-text-classifier\src\../data/processed/data.csv
+2025-05-12 23:37:20,811 | INFO | Aperçu des premières lignes du dataset affiché.
+2025-05-12 23:37:21,115 | INFO | Résumé statistique du dataset affiché.
+2025-05-12 23:40:37,119 | INFO | Lancement de l'application EDA.
+2025-05-12 23:40:37,273 | INFO | Données chargées depuis C:\Users\LENOVO\Desktop\Master d'excellence D3SI\Python avancé\Projet\mlops-text-classifier\src\../data/processed/data.csv
+2025-05-12 23:40:37,319 | INFO | Aperçu des premières lignes du dataset affiché.
+2025-05-12 23:40:37,454 | INFO | Résumé statistique du dataset affiché.
+2025-05-12 23:40:39,996 | INFO | Affichage du graphique de répartition des classes.
+2025-05-12 23:40:40,539 | INFO | Affichage de l'histogramme des longueurs de messages.
+2025-05-12 23:40:44,775 | INFO | Affichage du nuage de mots.
+2025-05-12 23:40:44,779 | INFO | EDA terminée avec succès.
+2025-05-12 23:40:45,805 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://100.112.121.62:5000
+2025-05-12 23:40:45,817 | INFO | [33mPress CTRL+C to quit[0m
+2025-05-12 23:40:45,901 | INFO |  * Restarting with watchdog (windowsapi)
+2025-05-12 23:41:02,368 | INFO | Lancement de l'application EDA.
+2025-05-12 23:41:02,516 | INFO | Données chargées depuis C:\Users\LENOVO\Desktop\Master d'excellence D3SI\Python avancé\Projet\mlops-text-classifier\src\../data/processed/data.csv
+2025-05-12 23:41:02,565 | INFO | Aperçu des premières lignes du dataset affiché.
+2025-05-12 23:41:02,677 | INFO | Résumé statistique du dataset affiché.
+2025-05-12 23:41:05,830 | INFO | Affichage du graphique de répartition des classes.
+2025-05-12 23:41:07,565 | INFO | Affichage de l'histogramme des longueurs de messages.
+2025-05-12 23:41:11,300 | INFO | Affichage du nuage de mots.
+2025-05-12 23:41:11,303 | INFO | EDA terminée avec succès.
+2025-05-12 23:41:11,386 | WARNING |  * Debugger is active!
+2025-05-12 23:41:11,398 | INFO |  * Debugger PIN: 131-779-272
+2025-05-12 23:41:11,506 | INFO | 127.0.0.1 - - [12/May/2025 23:41:11] "GET / HTTP/1.1" 200 -
+2025-05-12 23:41:11,555 | INFO | 127.0.0.1 - - [12/May/2025 23:41:11] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-05-12 23:41:13,317 | INFO | 100.112.121.62 - - [12/May/2025 23:41:13] "GET / HTTP/1.1" 200 -
+2025-05-12 23:41:13,447 | INFO | 100.112.121.62 - - [12/May/2025 23:41:13] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-05-12 23:41:19,417 | INFO | 127.0.0.1 - - [12/May/2025 23:41:19] "GET / HTTP/1.1" 200 -
+2025-05-12 23:41:20,171 | INFO | 127.0.0.1 - - [12/May/2025 23:41:20] "GET / HTTP/1.1" 200 -
+2025-05-12 23:41:34,729 | INFO | 127.0.0.1 - - [12/May/2025 23:41:34] "POST /predict-form HTTP/1.1" 200 -
+2025-05-12 23:41:34,800 | INFO | 127.0.0.1 - - [12/May/2025 23:41:34] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-05-12 23:41:36,254 | INFO | 127.0.0.1 - - [12/May/2025 23:41:36] "[31m[1mGET /predict-form HTTP/1.1[0m" 405 -
+2025-05-12 23:41:37,445 | INFO | 127.0.0.1 - - [12/May/2025 23:41:37] "[31m[1mGET /predict-form HTTP/1.1[0m" 405 -
+2025-05-12 23:41:43,447 | INFO | 127.0.0.1 - - [12/May/2025 23:41:43] "POST /predict-form HTTP/1.1" 200 -
+2025-05-12 23:41:43,573 | INFO | 127.0.0.1 - - [12/May/2025 23:41:43] "[33mGET /static/css/style.css HTTP/1.1[0m" 404 -
+2025-05-12 23:41:44,961 | INFO | 127.0.0.1 - - [12/May/2025 23:41:44] "[31m[1mGET /predict-form HTTP/1.1[0m" 405 -
+2025-05-12 23:42:31,593 | INFO | Lancement de l'application EDA.
+2025-05-12 23:42:31,688 | INFO | Données chargées depuis c:\Users\LENOVO\Desktop\Master d'excellence D3SI\Python avancé\Projet\mlops-text-classifier\src\../data/processed/data.csv
+2025-05-12 23:42:31,899 | INFO | Aperçu des premières lignes du dataset affiché.
+2025-05-12 23:42:32,088 | INFO | Résumé statistique du dataset affiché.
+2025-05-12 23:42:34,412 | INFO | Affichage du graphique de répartition des classes.
+2025-05-12 23:42:35,084 | INFO | Affichage de l'histogramme des longueurs de messages.
+2025-05-12 23:42:38,576 | INFO | Affichage du nuage de mots.
+2025-05-12 23:42:38,578 | INFO | EDA terminée avec succès.
+2025-05-13 11:18:19,268 | INFO | Lancement de l'application EDA.
+2025-05-13 11:18:19,325 | INFO | Données chargées depuis C:\Users\LENOVO\Desktop\Master d'excellence D3SI\Python avancé\Projet\mlops-text-classifier\src\../data/processed/data.csv
+2025-05-13 11:18:19,370 | INFO | Aperçu des premières lignes du dataset affiché.
+2025-05-13 11:18:19,412 | INFO | Résumé statistique du dataset affiché.
+2025-05-13 11:18:20,457 | INFO | Affichage du graphique de répartition des classes.
+2025-05-13 11:18:20,698 | INFO | Affichage de l'histogramme des longueurs de messages.
+2025-05-13 11:18:22,438 | INFO | Affichage du nuage de mots.
+2025-05-13 11:18:22,439 | INFO | EDA terminée avec succès.
+2025-05-13 11:18:23,352 | INFO | [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://100.112.121.62:5000
+2025-05-13 11:18:23,354 | INFO | [33mPress CTRL+C to quit[0m
+2025-05-13 11:18:23,393 | INFO |  * Restarting with watchdog (windowsapi)
+2025-05-13 11:18:31,637 | INFO | Lancement de l'application EDA.
+2025-05-13 11:18:31,681 | INFO | Données chargées depuis C:\Users\LENOVO\Desktop\Master d'excellence D3SI\Python avancé\Projet\mlops-text-classifier\src\../data/processed/data.csv
+2025-05-13 11:18:31,704 | INFO | Aperçu des premières lignes du dataset affiché.
+2025-05-13 11:18:31,735 | INFO | Résumé statistique du dataset affiché.
+2025-05-13 11:18:33,009 | INFO | Affichage du graphique de répartition des classes.
+2025-05-13 11:18:33,381 | INFO | Affichage de l'histogramme des longueurs de messages.
+2025-05-13 11:18:36,209 | INFO | Affichage du nuage de mots.
+2025-05-13 11:18:36,210 | INFO | EDA terminée avec succès.
+2025-05-13 11:18:36,261 | WARNING |  * Debugger is active!
+2025-05-13 11:18:36,276 | INFO |  * Debugger PIN: 131-779-272
+2025-05-13 11:20:15,446 | INFO |  * Detected change in "c:\\Users\\LENOVO\\Desktop\\Master d'excellence D3SI\\Python avancé\\Projet\\mlops-text-classifier\\app.py", reloading
+2025-05-13 11:20:15,448 | INFO |  * Detected change in "c:\\Users\\LENOVO\\Desktop\\Master d'excellence D3SI\\Python avancé\\Projet\\mlops-text-classifier\\app.py", reloading
+2025-05-13 11:20:17,051 | INFO |  * Restarting with watchdog (windowsapi)
+2025-05-13 11:35:05,584 | INFO | Lancement de l'application EDA.
+2025-05-13 11:35:05,635 | INFO | Données chargées depuis C:\Users\LENOVO\Desktop\Master d'excellence D3SI\Python avancé\Projet\mlops-text-classifier\src\../data/processed/data.csv
+2025-05-13 11:35:05,709 | INFO | Aperçu des premières lignes du dataset affiché.
+2025-05-13 11:35:05,760 | INFO | Résumé statistique du dataset affiché.
+2025-05-13 11:35:06,937 | INFO | Affichage du graphique de répartition des classes.
+2025-05-13 11:35:07,075 | INFO | Affichage de l'histogramme des longueurs de messages.
+2025-05-13 11:35:09,005 | INFO | Affichage du nuage de mots.
+2025-05-13 11:35:09,006 | INFO | EDA terminée avec succès.
+2025-05-13 16:43:21,655 | INFO | Lancement de l'application EDA.
+2025-05-13 16:43:21,825 | INFO | Données chargées depuis C:\Users\LENOVO\Desktop\Master d'excellence D3SI\Python avancé\Projet\mlops-text-classifier\src\../data/processed/data.csv
+2025-05-13 16:43:21,904 | INFO | Aperçu des premières lignes du dataset affiché.
+2025-05-13 16:43:22,072 | INFO | Résumé statistique du dataset affiché.
+2025-05-13 16:43:24,013 | INFO | Affichage du graphique de répartition des classes.
+2025-05-13 16:43:24,688 | INFO | Affichage de l'histogramme des longueurs de messages.
+2025-05-13 16:43:28,091 | INFO | Affichage du nuage de mots.
+2025-05-13 16:43:28,094 | INFO | EDA terminée avec succès.

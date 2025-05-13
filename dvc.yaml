@@ -1,0 +1,29 @@
+stages:
+  prepare:
+    cmd: python src/prepare_data.py
+    deps:
+      - src/prepare_data.py
+      - data/raw/data.csv
+    outs:
+      - data/processed/data.csv
+
+  train:
+    cmd: python src/trainer.py
+    deps:
+      - src/trainer.py
+      - src/model_factory.py
+      - data/processed/data.csv
+    outs:
+      - models/spam_classifier.pkl
+      - models/vectorizer.pkl
+    metrics:
+      - metrics.json
+
+  evaluate:
+    cmd: python src/evaluate.py
+    deps:
+      - models/spam_classifier.pkl
+      - data/processed/data.csv
+      - src/evaluate.py
+    outs:
+      - reports/classification_report.txt

@@ -1,0 +1,17 @@
+scikit-learn
+joblib
+pandas
+numpy
+nltk
+flask
+streamlit
+wordcloud
+matplotlib
+seaborn
+jose
+passlib[bcrypt]
+python-jose
+prometheus_client
+python-dotenv
+pytest
+httpx
